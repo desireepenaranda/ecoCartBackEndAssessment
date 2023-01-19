@@ -13,7 +13,7 @@ Bonus:
 - Some security mechanisms:
   Used API rate limiting 
 - Hosted on public url: 
-https://eco-cart-back-end-assessment.herokuapp.com/{ingredient}
+https://eco-cart-back-end-assessment.herokuapp.com/mushroom
 
 
 Part 2: 
