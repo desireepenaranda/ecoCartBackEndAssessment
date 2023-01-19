@@ -194,7 +194,7 @@ app.get("/:mainIngredient", async (req, res) => {
   }
 
   // Error Handling: non letter input for ingredient
-  if (/[^a-zA-Z]/.test(mainIngredient)) {
+  if (/[^\sa-zA-Z]/.test(mainIngredient)) {
     let error = {
       name: "Invalid Ingredient Input",
 
